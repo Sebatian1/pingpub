@@ -1,7 +1,7 @@
 {
     "chain_name": "0G-testnet",
-  "api": ["https://api.0g.idekubagus.com", "https://testnet.zero-g.api.service.nodebrand.xyz"],
-  "rpc": ["https://og-rpc.idekubagus.com", "https://testnet.zero-g.rpc.service.nodebrand.xyz"],
+  "api": ["0gchain-api.coinsspor.com"],
+  "rpc": ["https://0gchain-rpc.coinsspor.com"],
     "sdk_version": "0.45.0",
     "snapshot_provider": "",
     "coin_type": "118",
