@@ -1,0 +1,24 @@
+{
+    "chain_name": "mantrachain -hongbai",
+    "coingecko": "mantra",
+    "api": [
+        {"provider": "Coinsspor", "address": "https://mantra-hongbai-testnet-api.coinsspor.com"}
+    ],
+    "rpc": [
+        {"provider": "Coinsspor", "address": "https://mantra-hongbai-testnet-rpc.coinsspor.com"}
+    ],
+    "snapshot_provider": "",
+    "sdk_version": "0.47.4",
+    "coin_type": "118",
+    "min_tx_fee": "40",
+    "addr_prefix": "mantra",
+    "logo": "/logos/mantra.png",
+    "theme_color": "#812cd6",
+    "assets": [{
+        "base": "uom",
+        "symbol": "OM",
+        "exponent": "6",
+        "coingecko_id": "mantra-dao",
+        "logo": "/logos/mantra.png"
+    }]
+}
